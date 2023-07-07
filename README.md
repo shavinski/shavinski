@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 * My email: shavinski.dev@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jakob-shavinski/
+* Website: TBD
 
 
 
