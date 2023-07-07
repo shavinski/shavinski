@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 My name is Jakob Shavinski
 
 <!--
 **shavinski/shavinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome my name is Jakob Shavinski
 ![image](https://github.com/shavinski/shavinski/blob/main/githubbanner.PNG)
 
 
