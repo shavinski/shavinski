@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/shavinski/shavinski/blob/main/githubbanner.PNG)
 
+## 🧐 About me: 
+I am a full-stack engineer with a passion for learning. Currently I am trying to learn more about UI/UX design in order to make my websites come to life. 
 
 ## 👨‍💻 Technologies I frequently use:
 * Frontend: JavaScript, React, HTML, CSS
