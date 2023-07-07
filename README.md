@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Welcome my name is Jakob Shavinski
+![image](https://github.com/shavinski/shavinski/blob/main/githubbanner.PNG)
+
 
 ## 👨‍💻 Technologies I frequently use:
 * Frontend: JavaScript, React, HTML, CSS
