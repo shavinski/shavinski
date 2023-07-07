@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to reach me:
-My email: shavinski.dev@gmail.com
-LinkedIn: https://www.linkedin.com/in/jakob-shavinski/
+* My email: shavinski.dev@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jakob-shavinski/
 
 
 
