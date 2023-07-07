@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome my name is Jakob Shavinski
+
+ 🖥️ Technologies I frequently use:
+• Frontend: JavaScript, React, HTML, CSS
+• Backend: Node.js, Express, Python, Django, Flask
+• Database: PostgreSQL, SQL
+• Tools: Git, GitHub, VS Code
+
+👨‍💻 Technologies I am leveling up in: 
+• TypeScript
+• Tailwind CSS 
