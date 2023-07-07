@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Technologies I am leveling up in: 
 * TypeScript
-* Tailwind CSS 
+* Tailwind CSS
+
+## ⚡ My current skills: 
+![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) |
