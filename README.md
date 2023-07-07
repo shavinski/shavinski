@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * TypeScript
 * Tailwind CSS
 
-## ⚡ My current skills: 
+## 👜 My current skills: 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to reach me:
-shavinski.dev@gmail.com
+My email: shavinski.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/jakob-shavinski/
+
 
 
 
