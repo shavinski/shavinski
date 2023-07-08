@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/shavinski/shavinski/blob/main/githubbanner.PNG)
 
 ## 🧐 About me: 
-As a full-stack engineer with a strong passion for front-end technology, I am driven to improve my skills and expand my knowledge continuously. Currently, I am trying to learn more about UI/UX principles and how to make websites an enjoyable experience for all users. Usually when I am not coding you can find me hanging out with friends, fishing, golfing or watching my favorite tv show "The Office". 
+As a full-stack engineer with a strong passion for front-end technology, I am driven to improve my skills and expand my knowledge continuously. Currently, I am trying to learn more about UI/UX principles and how to make websites an enjoyable experience for all users with pixel-perfect design. Usually when I am not coding you can find me hanging out with friends, fishing, golfing or watching my favorite tv show "The Office". 
 
 ## 👨‍💻 Technologies I frequently use:
 * Frontend: JavaScript, React, HTML, CSS
