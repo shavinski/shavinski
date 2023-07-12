@@ -51,7 +51,7 @@ As a full-stack engineer with a strong passion for front-end technology, I am dr
 ## 📫 How to reach me:
 * My email: shavinski.jakob@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jakob-shavinski/
-* Website: TBD
+* Website: https://shavinski.com
 
 
 
